@@ -7,7 +7,7 @@ The Musical Time Machine project aims to create a Python program that allows use
 The project involves the following steps:
 **Scraping the Top 100 Songs:** Using the Beautiful Soup library, the program scrapes Billboard's website for the top songs from a specific date within the past 20 years. The song titles and artists are extracted from the list.
 
-**Creating a Spotify Playlist: **The program utilizes the Spotify API to create a new playlist for the selected date. The playlist will contain the top 100 songs from that particular time period.
+**Creating a Spotify Playlist:**The program utilizes the Spotify API to create a new playlist for the selected date. The playlist will contain the top 100 songs from that particular time period.
 
 **Adding Songs to the Playlist:** For each song in the scraped list, the program searches for its corresponding track on Spotify. It then adds these tracks to the newly created playlist, ensuring that the playlist accurately reflects the popular music of the chosen date.
 
