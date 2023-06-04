@@ -4,8 +4,8 @@ from pprint import pprint
 from spotipy.oauth2 import SpotifyOAuth
 from bs4 import BeautifulSoup
 
-CLIENT_ID = "8f44976f0caa4efc995a208126d0901d"
-CLIENT_KEY = "6cca3eee21a04ee2b947e3c4e2ecd12e"
+CLIENT_ID = "8f44976f0caaa208126d0901d"
+CLIENT_KEY = "6cca3eee21a04ee7e3c4e2ecd12e"
 
 date = input("Which year do you want to travel to?\nType the date in this format"
              "YYYY-MM-DD:")
