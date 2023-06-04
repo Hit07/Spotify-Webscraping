@@ -30,6 +30,8 @@ To utilize the Musical Time Machine, follow these steps:
 The Musical Time Machine project combines web scraping techniques with the Spotify API to create personalized playlists based on Billboard's top songs from a chosen date. By enabling users to revisit specific periods in their lives through music, the project offers a unique and sentimental way to reminisce and celebrate meaningful events. Whether it's for a gift or personal enjoyment, the Musical Time Machine adds a touch of nostalgia and transports users back in time, one song at a time.
 
 
+<img width="1440" alt="Screenshot 2023-06-04 at 9 57 09 AM" src="https://github.com/Hit07/Spotify-Webscraping/assets/106476598/45503325-447c-4a50-aced-b946fcf56dd0">
+
 
 
 
